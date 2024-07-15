@@ -7,7 +7,8 @@ This project was developed as part of the Trends II course. The objective was to
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
-
+- [Collaborators](#collaborators)
+- 
 ## General Information
 The project involves creating a website for the t'Festival event. The goal was to upgrade the existing website by enabling online payments and integrating a QR code into PDF tickets for entry control. Additionally, it was essential to develop a robust database to store all relevant data.
 
@@ -65,3 +66,9 @@ To use the website, follow these steps:
 
 4. **Admin Controls:**
     Administrators can manage events, view sales reports, and control ticket validations using the admin dashboard.
+
+## Collaborators
+- Gabriel De La Pena (Backend)
+- Oumaima Zerouali (Backend)
+- Furqan Chaud-ry (Frontend)
+- Nawfel Ajari (Frontend)
